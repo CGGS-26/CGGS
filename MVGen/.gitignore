@@ -1,0 +1,11 @@
+outputs
+data
+weights
+stabilityai
+pano2mvi.py
+pano2pers.py
+logs
+CLIP_IQA.py
+CLIP_IQA_scripts.sh
+CLIP_Score_scripts.sh
+CLIP_Score.py

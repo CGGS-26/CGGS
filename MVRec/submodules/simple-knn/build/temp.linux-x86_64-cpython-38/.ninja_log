@@ -1,0 +1,7 @@
+# ninja log v5
+1	12499	1737655905778462731	/home/sunzhenyu/Projects/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	decdde153f5acf2c
+1	17545	1737655910886304997	/home/sunzhenyu/Projects/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	434d94fb63d8ade7
+2	54329	1737655947573173241	/home/sunzhenyu/Projects/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	17c0aa2c6a67a79a
+42	12791	1740918189584600775	/projects/sunzhenyu/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	8a6fd7f258c212a7
+41	17347	1740918194216479061	/projects/sunzhenyu/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	723e4043b9898958
+42	51443	1740918228243583490	/projects/sunzhenyu/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	24da7878741d54b3

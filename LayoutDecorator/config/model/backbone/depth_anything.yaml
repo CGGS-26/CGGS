@@ -1,0 +1,5 @@
+name: depth_anything
+
+pretrained: true
+weight_sensitivity: null
+model: "LiheYoung/depth-anything-large-hf"

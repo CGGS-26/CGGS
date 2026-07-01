@@ -1,0 +1,6 @@
+# ninja log v5
+0	12121	1740989125545247357	/home/sunzhenyu/Projects/SGDreamer/MVRec/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	1aada2abde0b786d
+0	17704	1740989131497488052	/home/sunzhenyu/Projects/SGDreamer/MVRec/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	ae0265a9d94ffc5d
+0	47838	1740989161246276345	/home/sunzhenyu/Projects/SGDreamer/MVRec/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	4a0c3954dd991c02
+12	11543	1745384360459678722	/home/sunzhenyu/Projects/SGDreamer/MVRec/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	1aada2abde0b786d
+13	46747	1745384395647349758	/home/sunzhenyu/Projects/SGDreamer/MVRec/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	4a0c3954dd991c02
