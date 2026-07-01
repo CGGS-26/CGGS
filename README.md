@@ -123,7 +123,7 @@ While Director3D is capable of depicting the content described in text prompts, 
 ## Environment Set up
 1. Clone this repo:
 ```
-git clone https://github.com/CGGS332/CGGS.git
+git clone https://github.com/CGGS-26/CGGS.git
 cd CGGS
 ```
 
