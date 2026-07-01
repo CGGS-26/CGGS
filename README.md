@@ -232,5 +232,10 @@ MVRec/output
 <!-- ## Citation
 If you find our work helpful, please consider citing:
 ```bibtex
-
+@article{sun2026cggs,
+        title     = {CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation},
+        author    = {Zhenyu Sun and Xiaohan Zhang and Qi Liu and Huan Wang},
+        journal   = {IEEE Transactions on Image Processing},
+        year      = {2026},
+      }
 ``` -->
