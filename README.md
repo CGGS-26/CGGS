@@ -7,13 +7,15 @@
 
 
 ## Overview
-Implementation of CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
+This repo contains the implementation of CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 
 
 <p align="center">
 <img src="assets/teaser.png" width=100% height=100% 
 class="center">
 </p>
+
+## Key Results
 
 <div align="center">
 <table align="center" cellpadding="4">
@@ -105,6 +107,18 @@ We compare our method with representative text-to-3D and 3D scene generation met
 As shown, <strong>CGGS</strong> achieves the best performance on CLIP Score, Q-Align, PSNR, SSIM, and LPIPS,
 demonstrating superior generation and reconstruction quality.
 The <strong>best</strong> results are highlighted in bold, and the <em>second-best</em> results are shown in italic.
+
+<p align="center">
+<img src="assets/qualitative_comparison.png" width=100% height=100% 
+class="center">
+</p>
+
+<strong>Qualitative comparison between CGGS with other baselines.</strong>
+CGGS produces multi-view images with rich detail and superior semantic coherence, showcasing domain‑agnosticity. 
+Our results outperform other works with an accurately detailed description and unified 3D consistency.
+Specifically, DreamScene360 generates visual results with less major content in the horizon field; 
+While Director3D is capable of depicting the content described in text prompts, it is constrained by a limited field of view; LucidDreamr causes undesirable style transfer, wrong stitches between concepts, and inconsistent content, as highlighted in the red box.
+
 
 ## Environment Set up
 1. Clone this repo:
