@@ -187,7 +187,7 @@ Specifically, you need to download the checkpoint from [here](https://drive.goog
 
 To fine-tune the pano-generation model with our proposed **consistency-augmented loss**, please download data from [matterport3D](https://niessner.github.io/Matterport/) skybox data and [labels](https://www.dropbox.com/scl/fi/recc3utsvmkbgc2vjqxur/mp3d_skybox.tar?rlkey=ywlz7zvyu25ovccacmc3iifwe&dl=0).
 
-Then you can follow 
+Then you can follow [MVDiffusion](https://github.com/Tangshitao/MVDiffusion) for detailed training steps.
 
 To use your own data, please also follow the organization as follows: 
 ```text
@@ -230,7 +230,7 @@ MVRec/metrics
 MVRec/output
 ``` 
 
-<!-- ## Citation
+## Citation
 If you find our work helpful, please consider citing:
 ```bibtex
 @article{sun2026cggs,
@@ -239,4 +239,4 @@ If you find our work helpful, please consider citing:
         journal   = {IEEE Transactions on Image Processing},
         year      = {2026},
       }
-``` -->
+```
