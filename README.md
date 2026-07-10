@@ -118,7 +118,7 @@ class="center">
 CGGS produces multi-view images with rich detail and superior semantic coherence, showcasing domain‑agnosticity. 
 Our results outperform other works with an accurately detailed description and unified 3D consistency.
 Specifically, DreamScene360 generates visual results with less major content in the horizon field; 
-While Director3D is capable of depicting the content described in text prompts, it is constrained by a limited field of view; LucidDreamr causes undesirable style transfer, wrong stitches between concepts, and inconsistent content, as highlighted in the red box.
+While Director3D is capable of depicting the content described in text prompts, it is constrained by a limited field of view; LucidDreamer causes undesirable style transfer, wrong stitches between concepts, and inconsistent content, as highlighted in the red box.
 
 
 ## Environment Set up
