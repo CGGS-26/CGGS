@@ -2,10 +2,10 @@
     <img width="800" src="./assets/teaser.pdf".
 </p> -->
 
-# CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation (TIP 2026)
+# CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation (TIP 2026)
 **[Zhenyu Sun](https://zhenyusun-walker.github.io/)**, [Xiaohan Zhang](https://github.com/Xiaohan-Z/), [Qi Liu](https://drliuqi.github.io/)$\uparrow$, [Huan Wang](https://huanwang.tech/)$\uparrow$
 
-[[`Project Page`](https://cggs-26.github.io/cggs26/)] [[`Paper`](https://arxiv.org/abs/2607.03819)]
+[[`Project Page`](https://cggs-26.github.io/cggs26/)] [[`Paper`](https://arxiv.org/abs/2607.03819)] [[`Hugging Face`](https://huggingface.co/papers/2607.03819)]
 
 ## Overview
 This repo contains the implementation of CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
@@ -235,10 +235,13 @@ MVRec/output
 If you find our work helpful, please consider citing:
 ```bibtex
 @article{sun2026cggs,
-        title     = {CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation},
-        author    = {Zhenyu Sun and Xiaohan Zhang and Qi Liu and Huan Wang},
-        journal   = {IEEE Transactions on Image Processing},
-        year      = {2026},
+        title={CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation},
+        author={Zhenyu Sun and Xiaohan Zhang and Qi Liu and Huan Wang},
+        journal={IEEE Transactions on Image Processing},
+        volume={35},
+        pages={7670-7684},
+        year={2026},
+        DOI={10.1109/tip.2026.3710486},
       }
 ```
 
